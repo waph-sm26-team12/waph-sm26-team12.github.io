@@ -13,7 +13,7 @@ Your team can revise/add more sections._
 # Team members
 
 1. Member 1, email
-2. Member 2, email
+2. Abhishek Rautela, rautelak@mail.uc.edu
 3. Member 3, email
 
 # Project Management Information
