@@ -1,8 +1,3 @@
-# README.md Template
-
-*NOTE*: _This is just a template for your team to start working on teamwork collaboration. It is a minimum requirement for your project's final report and can be updated later.
-Your team can revise/add more sections._
-
 ## WAPH-Web Application Programming and Hacking
 
 ### Instructor: Dr. Phu Phung
@@ -20,7 +15,7 @@ Your team can revise/add more sections._
 
 Source code repository (private access): [Private Repo](https://github.com/waph-sm26-team12/waph-teamproject)
 
-Project homepage (public): [Public Hompage](https://github.com/waph-sm26-team12/waph-uc-sm26-team12.github.io)
+Project homepage (public): [Public Hompage](https://github.com/waph-sm26-team12/waph-sm26-team12.github.io)
 
 ## Revision History
 
