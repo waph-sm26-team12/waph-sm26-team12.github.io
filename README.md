@@ -18,7 +18,7 @@ Your team can revise/add more sections._
 
 # Project Management Information
 
-Source code repository (private access): <https://github.com/***>
+Source code repository (private access): [Private Repo](https://github.com/waph-sm26-team12/waph-teamproject)
 
 Project homepage (public): <https://***.github.io>
 
