@@ -1,0 +1,141 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #222;
+    background: #f4f4f4;
+}
+
+header {
+    padding: 40px 20px;
+    color: white;
+    text-align: center;
+    background: #2c3e50;
+}
+
+header h1 {
+    margin: 0 0 10px;
+    font-size: 2.3rem;
+}
+
+header p {
+    margin: 5px 0;
+}
+
+nav {
+    padding: 12px 20px;
+    text-align: center;
+    background: #ffffff;
+    border-bottom: 1px solid #ddd;
+}
+
+nav a {
+    margin: 0 12px;
+    color: #2c3e50;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+main {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 30px 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+.section-box {
+    padding: 24px;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+h2 {
+    margin-top: 0;
+    color: #2c3e50;
+}
+
+.team-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+
+.member-card {
+    padding: 24px;
+    text-align: center;
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.profile-photo,
+.photo-placeholder {
+    width: 140px;
+    height: 140px;
+    margin-bottom: 15px;
+    border-radius: 50%;
+}
+
+.profile-photo {
+    object-fit: cover;
+    border: 3px solid #2c3e50;
+}
+
+.photo-placeholder {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: #666;
+    background: #e9ecef;
+    border: 3px solid #ccc;
+    font-weight: bold;
+}
+
+.member-card h3 {
+    margin: 0 0 8px;
+}
+
+.email {
+    margin: 0 0 12px;
+    color: #555;
+}
+
+.button {
+    display: inline-block;
+    margin-top: 8px;
+    padding: 10px 16px;
+    color: white;
+    background: #2c3e50;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.button:hover {
+    background: #1f2d3a;
+}
+
+.button.disabled {
+    color: #666;
+    background: #ddd;
+}
+
+footer {
+    padding: 18px;
+    color: #666;
+    text-align: center;
+    background: white;
+    border-top: 1px solid #ddd;
+}
+
+@media (max-width: 700px) {
+    .team-grid {
+        grid-template-columns: 1fr;
+    }
+}
