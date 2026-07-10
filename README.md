@@ -7,9 +7,8 @@
 
 # Team members
 
-1. Member 1, email
+1. Aidan Ibold, iboldam@mail.uc.edu
 2. Abhishek Rautela, rautelak@mail.uc.edu
-3. Member 3, email
 
 # Project Management Information
 
